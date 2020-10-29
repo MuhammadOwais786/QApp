@@ -1,0 +1,39 @@
+.Logo{
+  color: #fff !important;
+  font-size: 25px !important;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.headging {
+  color: #fff !important;
+  font-size: 18px;
+  transition: 0.6s;
+  font-weight: bold;
+}
+
+.headging:hover {
+  background-color: #000 !important;
+  border-radius: 10px;
+}
+
+.userName{
+  color: #fff !important;
+  font-size: 18px;
+  transition: 0.6s;
+  font-weight: bold;
+  margin: auto;
+  cursor: pointer;
+}
+
+.logout{
+  background-color: darkcyan !important;
+  font-size: 18px !important;
+  font-weight: bold !important;
+  transition: 0.6s;
+}
+
+.logout:hover{
+  background-color: rgb(21, 226, 226) !important;
+  transition: 0.6s;
+}

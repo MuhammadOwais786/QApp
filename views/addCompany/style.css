@@ -1,0 +1,14 @@
+.back{
+    float: right;
+    width: 100px;
+}
+.submit{
+    width: 40%;
+    font-size: 25px;
+    background-color: darkcyan;
+}
+.submit:hover{
+    color: black;
+    background-color: white;
+    transition: 1s;
+}

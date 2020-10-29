@@ -1,0 +1,28 @@
+#card{
+    margin: auto;
+    background-color: rgb(251, 251, 251) !important;
+    width: 40%;
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+h1{
+    font-size: 60px !important;
+    text-align: center;
+    margin-top: -40px !important;
+    margin-bottom: 40px !important;
+}
+.TextField{
+    text-align: center !important;
+    background-color: #fff !important;
+    margin-left: 60px !important;
+}
+.signup{
+    margin-left: 15% !important;
+    width: 70% !important;
+    font-size: 20px !important;
+}
+.login{
+    margin-left: 15% !important;
+    width: 70% !important;
+    font-size: 20px !important;
+}

@@ -1,0 +1,45 @@
+.main{
+    margin: 40px 20% 10px 20%;
+}
+.normalUser{
+    /* margin-left: -30%; */
+    float: left;
+    margin-top: 20%;
+    font-size: 30px !important;
+    font-family: fantasy;
+    background-color: dodgerblue !important;
+    color: #fff !important;
+    letter-spacing: 2px;
+    transition: 0.9s;
+}
+.company{
+    /* margin-right: -30%; */
+    float: right;
+    margin-top: 20%;
+    font-size: 30px !important;
+    font-family: fantasy;
+    background-color: dodgerblue !important;
+    color: #fff !important;
+    letter-spacing: 2px;
+    transition: 0.9s;
+}
+.normalUser:hover{
+    background-color: rgb(13, 142, 146) !important;
+    color: #000 !important;
+    transition: 0.9s;
+    letter-spacing: 7px;
+}
+.company:hover{
+    background-color: rgb(13, 142, 146) !important;
+    color: #000 !important;
+    transition: 0.9s;
+    letter-spacing: 7px;
+}
+.heading{
+    /* margin-top: 10%;
+    margin-bottom: 10%; */
+    font-size: 50px !important;
+    text-align: center;
+    font-weight: bold;
+    font: outline;
+}
